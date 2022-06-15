@@ -14,10 +14,7 @@ function customCalc(...args){
 
 }
 
-
-
-
 console.log(customCalc())
 
-// output { max: 44, min: 3, avg: 15.5, sum: 124 }
+// output { max: 44, min: 3, average: 15.5, sum: 124 }
 
